@@ -31,7 +31,7 @@
             ],
             "scripts": [],
             "server": "src/main.server.ts",
-            "outputMode": "server",
+           
             "ssr": {
               "entry": "src/server.ts"
             }
@@ -97,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "9709a12d-cc63-484c-ac22-e0cf4117f1e2"
   }
 }
